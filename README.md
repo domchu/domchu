@@ -45,6 +45,8 @@ A Creative and immovable Front-End Engineer with over 2 years of experience buil
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=domchu&count_private=true&show_icons=true&theme=tokyonight" alt="Ochu Dominic Onah's GitHub Stats" />
 </a>
 
+#
+
 <a href="https://github.com/domchu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domchu&layout=compact&show_icons=true&theme=dracula&langs_count=8" />
 </a>
