@@ -11,14 +11,16 @@ A Creative and immovable Front-End Engineer with over 2 years of experience buil
   <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
 </a>, +2348110998914, or +2347034278995.
 
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SASS/SCSS-informational?style=flat&logo=SASS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-NextJs-informational?style=flat&logo=nextjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-TestingLibrary-informational?style=flat&logo=testinglibrary&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
+
 
 <!-- ## 🔧 Technologies & Tools
 ![Chakra-ui](https://img.shields.io/badge/Tools-chakra-%234ED1C5.svg?style=flat&logo=linux&logoColor=white&color=2bbc8a)
