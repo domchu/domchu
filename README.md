@@ -4,7 +4,7 @@
 
 # Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> thanks for stopping by
 
-### I am ✨ Ochu Dominic Onah ✨,
+### I am ✨ Ochu Dominic Onah (domchu) ✨,
 
 A Creative and immovable Front-End Engineer with over 2 years of experience building stable websites and apps in fast-paced, collaborative environments. You can also find me on 
 <a href="https://www.linkedin.com/in/dominic-ochu/" rel="nofollow noreferrer">
@@ -60,14 +60,14 @@ A Creative and immovable Front-End Engineer with over 2 years of experience buil
 </a>
 
 
-<a href="https://github.com/chineduogada/newspaper">
+<a href="https://github.com/domchu/newspaper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chineduogada&repo=newspaper&theme=dark" />
 </a>   
 
 --
 
-<a href="https://github.com/chineduogada/sr-react-dev-fulfil-exercise">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chineduogada&repo=sr-react-dev-fulfil-exercise&theme=dark" />
+<a href="https://github.com/domchu/sr-react-dev-fulfil-exercise">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=domchu&repo=sr-react-dev-fulfil-exercise&theme=dark" />
 </a>  -->
 
 
@@ -92,7 +92,7 @@ A Creative and immovable Front-End Engineer with over 2 years of experience buil
 
 <!-- links to your social media accounts -->
 
-<!-- [1]: https://twitter.com/Martin_Heinz_
+<!-- [1]: https://twitter.com/OnahOchu
 [2]: https://github.com/domchu
 [3]: https://www.linkedin.com/in/dominic-ochu/ -->
 
