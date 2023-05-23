@@ -7,7 +7,7 @@
 ### I am ✨ Ochu Dominic Onah (domchu) ✨,
 
 A Creative and immovable Front-End Engineer with over 2 years of experience building stable websites and apps in fast-paced, collaborative environments. You can also find me on 
-<a href="https://www.linkedin.com/in/dominic-ochu/" rel="nofollow noreferrer">
+<a href="https://www.linkedin.com/in/dominic-ochu-470a8418a/" rel="nofollow noreferrer">
   <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
 </a>, +2348110998914, or +2347034278995.
 
