@@ -7,7 +7,7 @@
 ### I am ✨ Ochu Dominic Onah (domchu) ✨,
 
 A Creative and immovable Front-End Engineer with over 2 years of experience building stable websites and apps in fast-paced, collaborative environments. You can also find me on 
-<a href="https://www.linkedin.com/in/dominic-ochu-470a8418a/" rel="nofollow noreferrer">
+<a href="https://www.linkedin.com/in/dominic-ochu" rel="nofollow noreferrer">
   <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
 </a>, +2348110998914, or +2347034278995.
 
@@ -22,6 +22,7 @@ A Creative and immovable Front-End Engineer with over 2 years of experience buil
 ![](https://img.shields.io/badge/Tools-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SemanticUI-informational?style=flat&logo=semantic-ui-react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MaterialUI-informational?style=flat&logo=material-ui-react&logoColor=white&color=2bbc8a)
 
 
 <!-- ## 🔧 Technologies & Tools
