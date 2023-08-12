@@ -22,8 +22,8 @@ A Creative and immovable Front-End Engineer with over 2 years of experience buil
 ![](https://img.shields.io/badge/Tools-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SemanticUI-informational?style=flat&logo=semantic-ui-react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MaterialUI-informational?style=flat&logo=material-ui-react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-ChakraUI-informational?style=flat&logo=chakra-ui-react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MaterialUI-informational?style=flat&logo=material-ui-material&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-ChakraUI-informational?style=flat&logo=chakra-ui-chakra&logoColor=white&color=2bbc8a)
 
 
 <!-- ## 🔧 Technologies & Tools
