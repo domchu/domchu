@@ -23,7 +23,6 @@ A dynamic and steadfast Front-End Engineer with more than three years (3yrs) of 
 ![](https://img.shields.io/badge/Tools-SemanticUI-informational?style=flat&logo=semantic-ui-react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MaterialUI-informational?style=flat&logo=material-ui-materialui&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-ChakraUI-informational?style=flat&logo=chakra-ui-chakraui&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-ReactTestingLibrary-informational?style=flat&logo=react-testing-library-reacttestinglibrary&logoColor=white&color=2bbc8a)
 
 
 <!-- ## 🔧 Technologies & Tools
