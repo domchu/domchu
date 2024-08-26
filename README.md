@@ -5,7 +5,7 @@
 # Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> thanks for stopping by
 
 ### I am ✨ Ochu Dominic Onah (domchu) ✨,
-A dynamic and steadfast Front-End Engineer with more than three years (3yrs) of expertise in constructing robust websites and applications within dynamic, collaborative settings. A creative force committed to delivering innovative solutions. You can also find me on 
+A Creative and immovable Full Stack Developer with over three years (3 yrs+ ) of experience building stable websites and apps in fast-paced, collaborative environments. and working experience leveraging web technologies such as  Typescript, JavaScript (ES6+), React.js, Next.js, Jest, React-Testing-Library, NodeJS ExpressJS, MongoDB, MYSQL, PHP and certified mathematics/Further Mathematics tutor with more than a decade of experience.	You can also find me on 
 <a href="https://www.linkedin.com/in/dominic-ochu" rel="nofollow noreferrer">
   <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
 </a>, +2348110998914, or +2347034278995.
@@ -26,6 +26,7 @@ A dynamic and steadfast Front-End Engineer with more than three years (3yrs) of 
 ![](https://img.shields.io/badge/Tools-SASS/SCSS-informational?style=flat&logo=SASS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SemanticUI-informational?style=flat&logo=semantic-ui-react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MaterialUI-informational?style=flat&logo=material-ui-materialui&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/code-php-informational?style=flat&logo=php-php&logoColor=white&color=2bbc8a)
 
 
 <!-- ## 🔧 Technologies & Tools
