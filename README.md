@@ -26,7 +26,7 @@ A Creative and immovable Full Stack Developer with over three years (3 yrs+ ) of
 ![](https://img.shields.io/badge/Tools-SASS/SCSS-informational?style=flat&logo=SASS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SemanticUI-informational?style=flat&logo=semantic-ui-react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MaterialUI-informational?style=flat&logo=material-ui-materialui&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/code-php-informational?style=flat&logo=php-php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/code-php-informational?style=flat&logo=php-&logoColor=white&color=2bbc8a)
 
 
 <!-- ## 🔧 Technologies & Tools
