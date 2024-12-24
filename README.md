@@ -5,7 +5,12 @@
 # Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> thanks for stopping by
 
 ### I am ✨ Ochu Dominic Onah (domchu) ✨,
-A Creative and immovable Full Stack Developer with over three years (3 yrs+ ) of experience building stable websites and apps in fast-paced, collaborative environments. and working experience leveraging web technologies such as  Typescript, JavaScript (ES6+), React.js, Next.js, Jest, React-Testing-Library, NodeJS ExpressJS, MongoDB, MYSQL, PHP and certified mathematics/Further Mathematics tutor with more than a decade of experience.	You can also find me on 
+👨‍💻 Full Stack Developer | Building scalable and efficient applications with PHP, Laravel, MySQL, and JavaScript (ES6+).
+🚀 Proficient in TypeScript, Next.js, MERN Stack, and WordPress.
+☁️ AWS Cloud Practitioner | IT Support Specialist | Passionate about clean code and Unit Testing.
+📚 Strong foundation in Mathematics and problem-solving to tackle real-world challenges."
+	
+You can also find me on 
 <a href="https://www.linkedin.com/in/dominic-ochu" rel="nofollow noreferrer">
   <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
 </a>, +2348110998914, or +2347034278995.
