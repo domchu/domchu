@@ -1,4 +1,4 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+<!-- More info, tips, and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
 <!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/) -->
 
@@ -7,8 +7,8 @@
 ### I am ✨ Ochu Dominic Onah (domchu) ✨,
 👨‍💻 Full Stack Developer | Building scalable and efficient applications with PHP, Laravel, MySQL, WordPress, and JavaScript (ES6+).
 🚀 Proficient in TypeScript, Next.js, and  MERN Stack.
-☁️ AWS Cloud Practitioner | IT Support Specialist | Passionate about clean code and Unit Testing.
-📚 Strong foundation in Mathematics and problem-solving to tackle real-world challenges.
+☁️ Certified AWS Cloud Practitioner | IT Support Specialist | Passionate about clean code and Unit Testing.
+📚 Strong foundation in Mathematics and problem-solving Skills to tackle real-world challenges.
 	
 You can also find me on 
 <a href="https://www.linkedin.com/in/dominic-ochu" rel="nofollow noreferrer">
@@ -32,7 +32,7 @@ You can also find me on
 ![](https://img.shields.io/badge/Tools-SemanticUI-informational?style=flat&logo=semantic-ui-react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MaterialUI-informational?style=flat&logo=material-ui-materialui&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-LARAVEL-informational?style=flat&logo=LARAVEL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=LARAVEL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MYSQL-informational?style=flat&logo=MYSQL&logoColor=white&color=2bbc8a)
 
 
