@@ -4,7 +4,7 @@
 
 # Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> thanks for stopping by
 
-### I am ✨ Ochu Dominic Onah (domchu) ✨,
+### I am ✨ Ochu Dominic Onah (Dominic) ✨,
 👨‍💻 Full Stack Developer | Building scalable and efficient applications with PHP, Laravel, MySQL, WordPress, and JavaScript (ES6+).
 🚀 Proficient in TypeScript, Next.js, and  MERN Stack.
 ☁️ Certified AWS Cloud Practitioner | IT Support Specialist | Passionate about clean code and Unit Testing.
